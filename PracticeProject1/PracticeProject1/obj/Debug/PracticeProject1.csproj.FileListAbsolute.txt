@@ -1,0 +1,7 @@
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\obj\Debug\PracticeProject1.csproj.AssemblyReference.cache
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\obj\Debug\PracticeProject1.csproj.CoreCompileInputs.cache
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\bin\Debug\PracticeProject1.exe.config
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\bin\Debug\PracticeProject1.exe
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\bin\Debug\PracticeProject1.pdb
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\obj\Debug\PracticeProject1.exe
+D:\Simplilearn Practice_Project\PracticeProject1\PracticeProject1\obj\Debug\PracticeProject1.pdb
